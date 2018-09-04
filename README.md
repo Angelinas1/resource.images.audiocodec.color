@@ -1,1 +1,2 @@
-resource.images.audiocodec.color
+# resource.images.audiocodec.color
+Color media flags for Kodi - AudioCodec
